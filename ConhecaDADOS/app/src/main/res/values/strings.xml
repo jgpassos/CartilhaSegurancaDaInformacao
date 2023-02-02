@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Cartilha Segurança da Informação</string>
+    <string name="TxtButtonInstituicao"><u>Informações para minha instituição</u></string>
+    <string name="texto1pag1">Todos nós podemos estar expostos a ameaças no meio digital, e todos nós devemos estar atentos aos cuidados com nossas informações.</string>
+    <string name="texto1pag1_pt2">Entretanto, é o nosso dever incluir como um cuidado a mais com a pessoa idosa, a <b>proteção no meio digital.</b></string>
+
+    <string name="texto2pag1">A população de pessoas de 60 anos ou mais é parte significativa em nossa sociedade e <b>trabalhar para que a tecnologia chegue a todos é um dever.</b></string>
+    <string name="texto2pag1_pt2"><br>Buscando <b>incluir os que possam ter dificuldades ao acompanhar o avanço tecnológico, visando a proteção</b> de um grupo que está consideravelmente vulnerável no meio digital, esta cartilha foi desenvolvida e servirá como <b>meio de informação</b> tanto para idosos quanto para idosos que estão sob cuidados de terceiros. </br></string>
+
+    <!-- CONHECENDO DADOS -->
+
+    <string name="texto1pagConhecendoDados">VOCÊ SABE O QUE SÃO DADOS PESSOAIS?
+    </string>
+    <string name="texto2pagConhecendoDados">Os dados pessoais são <b>informações que podem te identificar, contactar ou localizar</b> como um único indivíduo, como por exemplo seu RG, CPF, telefone, endereço residencial e nome.</string>
+    <string name="texto3pagConhecendoDados">E VOCÊ JÁ OUVIU FALAR EM DADOS SENSÍVEIS?</string>
+    <string name="texto4pagConhecendoDados">Estes dados <b>precisão de um pouco mais de atenção,</b> pois podem revelar mais informações como origem racial ou étnica, convicções religiosas, dados referentes à saúde, dados genéticos ou biométricos  e dados politico.</string>
+
+    <string name="texto5pagConhecendoDados">Para o tratamento dos seus dados é necessário o seu consentimento e temos uma lei para isso!</string>
+    <string name="texto6pagConhecendoDados">Estamos falando da <b>Lei Geral de Proteção de dados</b>, a LGPD, que visa a privacidade e proteção de dados.</string>
+    <string name="texto7pagConhecendoDados">Mas o que seria\no tratamento de dados?</string>
+    <string name="texto8pagConhecendoDados">Qualquer <b>atividade</b>, que ao ser executada, é necessário a <b>utilização de algum dado pessoal</b>, podendo ser para coleta, distribuição, arquivamento, armazenamento, modificação, transferência, entre outros.</string>
+
+    <string name="texto9pagConhecendoDados">A exposição dos seus dados pode te deixar vulnerável no meio digital!</string>
+    <string name="texto10pagConhecendoDados">O que significa\nestar vulnerável no meio digital?</string>
+    <string name="texto11pagConhecendoDados">Entende-se como vulnerabilidade, uma <b>fragilidade que pode ser explorada</b> por ameaças, neste caso, dados sensíveis que podem estar expostos e sob risco de ameaça, podendo cair em mãos erradas.</string>
+
+    <!-- LEIS E DIREITOS -->
+
+    <string name="leisedireitos">LEIS E DIREITOS DO IDOSO\nQUE SE APLICAM\nAO MEIO DIGITAL</string>
+
+    <string name="texto1pagLeisEDireitos">Lei n.º 10.741 - Estatuto do idoso</string>
+
+    <string name="texto2pagLeisEDireitos">Destinado a regular os direitos assegurados às pessoas com idade <b>igual ou superior a 60  (sessenta) anos.</b></string>
+    <string name="texto2pagLeisEDireitos_pt2">De acordo com o Art. 2.º, o idoso goza de todos os direitos fundamentais à pessoa humana, assegurando-lhes por lei todas as oportunidades e facilidades para preservação de sua saúde física e mental, além do aperfeiçoamento moral, <b>intelectual, social</b> em condições de liberdade e dignidade.</string>
+    <string name="texto2pagLeisEDireitos_pt3">No Art. 4.º consta que é <b>dever de todos prevenir</b> a ameaça ou violação aos direitos do idoso.</string>
+
+    <string name="texto3pagLeisEDireitos">Art. 10. É obrigação do Estado e da sociedade, assegurar à pessoa idosa <b>a liberdade, o respeito e a dignidade, como pessoa humana e sujeito de direitos civis, políticos, individuais e sociais, garantidos na Constituição e nas leis.</b></string>
+    <string name="texto3pagLeisEDireitospt2">Apesar das dificuldades encontradas ao acompanhar os avanços tecnológicos é um direito da pessoa idosa, como vemos no Art. 20, o idoso tem direito a educação, cultura, esporte, lazer, diversões, espetáculos, produtos e serviços que <b>respeitem sua peculiar condição de idade.</b></string>
+
+    <string name="texto4pagLeisEDireitos">Art. 21. O Poder Público criará oportunidades de acesso do idoso à educação, adequando currículos, metodologias e material didático aos programas educacionais a ele destinados.\n§ 1.º Os cursos especiais para idosos incluirão conteúdo relativo às técnicas de comunicação, computação e demais avanços tecnológicos, <b>para sua integração à vida moderna</b>.</string>
+
+    <string name="texto4pagLeisEDireitospt3">I - por ação ou omissão da sociedade ou do Estado;\nII - por falta, omissão ou abuso da família, curador ou entidade de atendimento;\nIII - em razão de sua condição pessoal.</string>
+    <string name="texto4pagLeisEDireitospt2"><b>As medidas de proteção ao idoso são aplicáveis sempre que os direitos reconhecidos nesta Lei forem ameaçados ou violados:</b></string>
+    <string name="texto5pagLeisEDireitos">Lei Nº 12.527 - Lei de acesso à informação</string>
+
+    <string name="texto6pagLeisEDireitos">Nas diretrizes da lei (Art. 5º) fica claro o dever do estado de <b>garantir o direito de acesso à informação, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão.</b></string>
+    <string name="texto6pagLeisEDireitospt2">No Art. 6º, parágrafo III consta que  <b>cabe aos órgãos e entidades do poder público, assegurar a proteção da informação sigilosa e da informação pessoal, observada a sua disponibilidade, autenticidade, integridade e eventual restrição de acesso.</b></string>
+
+    <string name="texto7pagLeisEDireitos">Lei nº 13.709 - Lei Geral de Proteção de Dados</string>
+
+    <string name="texto8pagLeisEDireitos">A Lei Geral de Proteção de dados visa a cultura da privacidade e da proteção de dados, assumindo que a proteção de dados pessoais deverá atentar-se aos seguintes princípios:</string>
+    <string name="texto8pagLeisEDireitospt2"><b>Finalidade:</b> tratamento dos dados com propósitos legítimos, específicos e de forma clara, informando sempre o titular.</string>
+    <string name="texto8pagLeisEDireitospt3"><b>Adequação:</b> tratamento de acordo com a finalidade informada ao titular.</string>
+    <string name="texto8pagLeisEDireitospt4"><b>Necessidade:</b> limitação do tratamento ao mínimo necessário para a realização de suas finalidades.</string>
+
+    <string name="texto9pagLeisEDireitos"><b>Livre acesso:</b> garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais.</string>
+    <string name="texto9pagLeisEDireitospt2"><b>Qualidade dos dados:</b>  garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados.</string>
+    <string name="texto9pagLeisEDireitospt3"><b>Transparência:</b>  garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento.</string>
+    <string name="texto9pagLeisEDireitospt4"><b>Segurança: proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas.</b></string>
+
+    <string name="texto10pagLeisEDireitos"><b>Prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.</b></string>
+    <string name="texto10pagLeisEDireitos_pt2"><b>Não discriminação:</b> impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos.</string>
+    <string name="texto10pagLeisEDireitos_pt3"><b>Responsabilização e prestação de contas:</b> medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais.</string>
+
+    <string name="texto11pagLeisEDireitos">Lei Geral de Proteção de Dados\ne o Estatuto do Idoso</string>
+
+    <string name="texto12pagLeisEDireitos">No art. 55º, XIX, é garantido que o tratamento de dados de idosos <b>seja efetuado de maneira simples, clara, acessível e adequada ao seu entendimento</b>, nos termos desta lei e da lei nº 10.741 (Estatuto do Idoso), se alinhando ao Art. 2º da Lei nº 13.709 (Lei Geral de Proteção de Dados), VII, que visa os direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais.</string>
+
+    <!-- CANAIS DE INFORMAÇÃO -->
+
+    <string name="texto1CanaisDeInformacao"><b>Estatuto do Idoso</b></string>
+
+    <string name="texto2CanaisDeInformacao">Você pode encontrar a lei completa que dispõe sobre o Estatuto da Pessoa Idosa no site oficial da Presidência da República (<b>planalto.gov.br</b>)</string>
+
+    <string name="texto3CanaisDeInformacao"><b>Secretaria Nacional de Promoção e Defesa dos Direitos da Pessoa Idosa (SNDPI)</b></string>
+
+    <string name="texto4CanaisDeInformacao">Coordena e propõe ações de promoção, defesa, proteção e enfrentamento a violações de direitos da pessoa idosa.\n<b>www.gov.br</b>
+    </string>
+
+    <string name="texto5CanaisDeInformacao"><b>Ministério da Mulher, da Família e dos Direitos Humanos</b></string>
+
+    <string name="texto6CanaisDeInformacao">A elaboração e a implementação de políticas para a pessoa idosa são prioridade neste Ministério. Cabe a este órgão propor políticas e estratégias que visam a promoção e a efetivação dos direitos da pessoa idosa na prática.<b>www.gov.br</b></string>
+
+    <string name="texto8CanaisDeInformacao"><b>STJ  Superior Tribunal de Justiça</b></string>
+
+    <string name="texto9CanaisDeInformacao">É um dos órgãos máximos do Poder Judiciário do Brasil. Sua missão é zelar pela <b>uniformidade de interpretações da legislação</b> federal brasileira.</string>
+
+    <string name="texto7CanaisDeInformacao"><b>Autoridade Nacional de Proteção de Dados (ANPD)</b></string>
+
+    <string name="texto10CanaisDeInformacao">É o órgão federal responsável por fiscalizar e aplicar a LGPD, a Lei Geral da Proteção de Dados. Fiscaliza se o acesso às informações pessoais estão cumprindo com a legislação.</string>
+    <string name="texto10CanaisDeInformacao_pt2">Mais informações podem ser obtidas no site do Governo Federal <b>www.gov.br</b>, onde é possível realizar manifestações através dos canais de  Atendimento <b>Fala.BR</b>, podendo ser <b>denúncia, solicitações, sugestão e elogio</b>.</string>
+
+    <string name="texto11CanaisDeInformacao"><b>GOV.BR</b></string>
+
+    <string name="texto12CanaisDeInformacao">Portal único do governo onde ocorre a unificação dos canais do governo federal, visando o relacionamento do cidadão com o governo para <b>serviços e informações do Brasil.</b></string>
+
+
+    <!-- COMO ME PROTEGER? -->
+
+    <string name="txt_comoMeProteger1">Dados referentes a você <b>circulam diariamente</b> por diversas redes e são armazenados em diferentes sistemas, dispositivos e mídias. </string>
+    <string name="txt_comoMeProteger2">Esta cartilha online busca trazer ao usuário as <b>informações necessárias para que ele tenha ciência</b> de que seus dados podem ser perdidos e até mesmo indevidamente acessados. </string>
+
+    <string name="txt_comoMeProteger3">Alguns exemplos de como isso pode acontecer:</string>
+    <string name="txt_comoMeProteger3pt2">- A perda do seu celular.</string>
+    <string name="txt_comoMeProteger3pt2.2">- Um vazamento envolvendo seus dados.</string>
+    <string name="txt_comoMeProteger3pt2.3">- Suas contas pessoais estão vulneráveis e são invadidas.</string>
+    <string name="txt_comoMeProteger3pt2.4">- Seus dados são compartilhados sem seu consentimento.</string>
+    <string name="txt_comoMeProteger4">Hoje em dia contamos com diversos mecanismos de segurança que auxiliam os usuários na proteção de dados, porém, <b>adotar uma postura preventiva, saber como sua informação é tratada na internet, conhecer o que são dados, seus direitos e agir adequadamente no meio digital é fundamental para o complemento da segurança de todos os usuários.</b></string>
+
+    <string name="txt_comoMeProteger5">Aqui vai algumas dicas de como criar senhas seguras:</string>
+    <string name="txt_comoMeProteger5pt2">- Não use a mesma senha para tudo!</string>
+    <string name="txt_comoMeProteger5pt3">- Crie senha fortes contendo letras minúsculas, maiúsculas e caracteres especiais.</string>
+    <string name="txt_comoMeProteger5pt4">- Não utilize sua data de nascimento ou de pessoas próximas.</string>
+
+    <string name="txt_comoMeProteger6">Seja cuidadoso ao abrir arquivos de terceiros!  </string>
+    <string name="txt_comoMeProteger7">Desconfie de links, mesmo que venham de pessoas conhecidas. </string>
+
+    <string name="txt_comoMeProteger8">Instale aplicativos somente de fontes confiáveis como o <b>Play Store e Apple Store</b> que já vem instalado em seu celular.</string>
+    <string name="txt_comoMeProteger9">Antes de instalar um aplicativo, verifique o nome do aplicativo e de onde vem pois há muitos aplicativos semelhantes feito de maneira proposital. </string>
+    <string name="txt_comoMeProteger10">Apague aplicativos que você não utiliza mais. </string>
+    <string name="txt_comoMeProteger11">Todo o cuidado é pouco com <b>aplicativos de banco e contas eletrônicas</b>! Dê preferência por não mantê-los instalados em seu aparelho, deixe apenas o que você utiliza em seu dia a dia. </string>
+    <string name="txt_comoMeProteger12"><b>Atualize</b> sempre seus aplicativos e aparelhos, isso irá te manter seguro. </string>
+
+
+    <!-- PERIGOS NA INTERNET -->
+
+    <string name="txt_perigosNaInternet1">Seus dados em mãos erradas podem acarretar prejuízos financeiros e a invasão da sua privacidade!</string>
+    <string name="txt_perigosNaInternet2">Atenção ao preencher cadastros e questionários, questione-se sobre a necessidade de passar determinadas informações!</string>
+
+    <string name="txt_perigosNaInternet3">Dados vazados podem ser usados para <b>abertura de contas, aplicar golpes, contrair dívidas, criação de cartões de crédito, empréstimos e movimentações financeiras</b> em seu nome. </string>
+
+    <string name="txt_perigosNaInternet4">Engenharia social: </string>
+    <string name="txt_perigosNaInternet5">É uma técnica de <b>manipulação que pode levar a obtenção de informações confidenciais.</b> Quanto mais informações um atacante tiver mais convincente e facilmente enganará outras pessoas. </string>
+
+    <string name="txt_perigosNaInternet6"><i>PHISHING: </i></string>
+    <string name="txt_perigosNaInternet7">O <i>Pishing</i> é a combinação da engenharia social com meios técnicos, onde poderá atrair a atenção dos usuários através de <b>páginas falsas, mensagens com formulários, mensagens com links maliciosos.</b></string>
+
+    <string name="txt_perigosNaInternet8"><i>PROFILING: </i></string>
+    <string name="txt_perigosNaInternet9">Aplicativos e sites podem vir a coletar <b>dados extras sem o seu consentimento</b> os utilizando para montar um <b>perfil de comportamento</b>, podendo assim utilizar deste perfil para fins como propaganda. </string>
+
+    <string name="txt_perigosNaInternet10">INVASÃO DE CONTAS E GOLPES: </string>
+    <string name="txt_perigosNaInternet11">Seus dados podem ser utilizados para adivinhar suas senhas e para tentativas de golpes como extorsão. </string>
+
+    <!-- INSTITUIÇÕES -->
+
+    <string name="txt_ilpi1"><b>ILPIs</b>\nInformativo para responsáveis e \ncuidadores de idosos</string>
+
+    <string name="txt_ilpi2">O envelhecimento nos atinge em diversos aspectos, seja <b>físico, social ou emocional</b>, e de certa forma o envelhecimento também contribui para que haja dificuldades em acompanhar os avanços tecnológicos. </string>
+    <string name="txt_ilpi3">Hora na dificuldade em enxergar as pequenas palavras em um smartphone, devido à visão, hora em dificuldades motoras, que podem <b>acarretar em cliques indesejados, abertura de páginas indesejadas e dificuldade em verificar a veracidade e segurança do conteúdo.</b></string>
+
+    <string name="txt_ilpi4">Tendo em vista estas limitações, que como o envelhecimento, é inevitável, o cuidado com a pessoa idosa no meio digital deve ser redobrado, principalmente quando se é responsável por ela, como em <b>casos de idosos tutelados de uma instituição de longa permanência para idosos.</b></string>
+    <string name="txt_ilpi5">Uma instituição de longa permanência para idosos, <b>lida diariamente com dados pessoais e dados sensíveis de cada um de seus tutelados</b>, como vimos nessa cartilha. </string>
+    <string name="txt_ilpi6">O vazamento de determinados dados pode gerar muitos <b>prejuízos pra instituição e principalmente ao idoso.</b></string>
+
+    <string name="txt_ilpi7">Dados relacionado à <b>saúde do idoso, endereço, número de documentos, dados financeiros</b> (como é o caso em algumas instituições), são armazenados e mantidos muitas das vezes <b>sem</b> um sistema específico, com segurança e controle de acesso.</string>
+    <string name="txt_ilpi8">É de extrema importância que uma instituição tenha um sistema que <b>armazene, gerencie e principalmente tenha controle de acesso e segurança contra tentativas de acesso indevidas.</b></string>
+
+    <string name="txt_ilpi9">Armazenar estas informações em <b>documentos em papel pode não ser um meio tão seguro</b> pois fica aberto a acessos indevidos, perda de papéis e muitas das vezes quando não mais necessário o armazenamento de tal documento, são descartados de forma indevida. </string>
+    <string name="txt_ilpi10">O <b>controle no acesso</b> é essencial pois vemos que mesmo entre funcionários da instituição, poucos tem conhecimento sobre a segurança de dados no meio digital.  </string>
+
+    <string name="txt_ilpi11">O funcionário precisa estar atento às leis de proteção de dados da pessoa idosa assim como precisa conhecer as leis fundamentais da pessoa idosa na sociedade.</string>
+    <string name="txt_ilpi12">A sensibilização dos colaboradores para a importância da privacidade e precauções no tratamento de informações pessoais de idosos, nomeadamente no que diz respeito ao cumprimento de pedidos de terceiros e partilha de informações pessoais, deve ser uma prioridade, uma vez que <b>o principal fator de risco para incidentes de informação pessoal passa pelo fator humano.</b></string>
+
+    <string name="txt_ilpi13">As ILPIs servem como <b>filtro das tentativas ilegais e indevidas de obtenção dos dados pessoais dos idosos.</b></string>
+    <string name="txt_ilpi13pt2">Devem definir políticas adequadas, com medidas técnicas e administrativas qualificadas, relativas à segurança da informação e à proteção da privacidade, <b>estando também nas conformidades da Lei Geral de Proteção de Dados</b>, garantindo segurança aos tutelados, familiares e para a instituição.</string>
+
+</resources>

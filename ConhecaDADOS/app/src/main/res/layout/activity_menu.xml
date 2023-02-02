@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/corDeFundo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <Space
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonConhecendoDados"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/brancoPersonalizado"
+        android:text="CONHECENDO DADOS"
+        android:textSize="20dp"
+        android:textColor="@color/corTitulos"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_weight="0.3"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonLeisEDireitos"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/brancoPersonalizado"
+        android:text="LEIS E DIREITOS"
+        android:textSize="20dp"
+        android:textColor="@color/corTitulos"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_weight="0.3"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonComoMeProteger"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/brancoPersonalizado"
+        android:text="COMO ME PROTEGER"
+        android:textSize="20dp"
+        android:textColor="@color/corTitulos"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_weight="0.3"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonPerigosNaInternet"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/brancoPersonalizado"
+        android:text="PERIGOS NA INTERNET"
+        android:textSize="20dp"
+        android:textColor="@color/corTitulos"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_weight="0.3"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+    <Button
+        android:id="@+id/buttonCanaisDeInformacao"
+        android:layout_width="200dp"
+        android:layout_height="65dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/brancoPersonalizado"
+        android:text="CANAIS DE INFORMAÇÃO"
+        android:textSize="20dp"
+        android:textColor="@color/corTitulos"
+        android:textStyle="bold" />
+    <Space
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"/>
+
+</LinearLayout>

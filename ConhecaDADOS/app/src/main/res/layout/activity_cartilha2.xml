@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/corDeFundo"
+    tools:context=".CartilhaActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="CARTILHA DE SEGURANÇA DA INFORMAÇÃO"
+            android:textAlignment="center"
+            android:textColor="@color/corTitulos"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/texto2pag1"
+            android:textSize="18dp"
+            android:textColor="@color/corTextos"
+            android:justificationMode="inter_word" />
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/imgcartilhadois" />
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/texto2pag1_pt2"
+            android:textSize="18dp"
+            android:justificationMode="inter_word"
+            android:textColor="@color/corTextos" />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/imgtelas" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp">
+
+            <Button
+                android:id="@+id/buttonAnterior2"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/prev"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/btnLer"
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/imgleitura"
+                android:textStyle="bold"
+                android:layout_marginLeft="20dp"/>
+
+            <Button
+                android:id="@+id/btn_home"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/home"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"/>
+
+            <Button
+                android:id="@+id/buttonProxPaginaProx"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/next"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

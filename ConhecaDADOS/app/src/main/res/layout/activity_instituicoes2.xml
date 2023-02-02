@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/corDeFundo"
+    tools:context=".InstituicoesActivity2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="ILPIs"
+            android:textAlignment="center"
+            android:textColor="@color/corTitulos"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/txt_ilpi2"
+            android:textSize="18dp"
+            android:textColor="@color/corTextos"
+            android:justificationMode="inter_word"/>
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/imgilpi2" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:text="@string/txt_ilpi3"
+            android:textSize="18dp"
+            android:textColor="@color/corTextos"
+            android:justificationMode="inter_word"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="20dp">
+
+            <Button
+                android:id="@+id/btn_anterior"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/prev"
+                android:textStyle="bold"  />
+
+            <Button
+                android:id="@+id/btn_home"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/home"
+                android:textStyle="bold"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"/>
+
+            <Button
+                android:id="@+id/btn_ilpis2"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="@color/brancoPersonalizado"
+                android:text=""
+                android:textColor="@color/corTitulos"
+                android:background="@drawable/next"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
